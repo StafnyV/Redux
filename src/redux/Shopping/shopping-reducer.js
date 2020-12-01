@@ -4,7 +4,7 @@ const INITIAL_STATE = {
   products: [
     {
       id: 1,
-      title: "This is the COOLEST Cube Ever",
+      title: "Rubix Cube",
       description:
         "This cube will keep you busy the entire day and it is very fun to play with",
       price: 15.0,
@@ -15,16 +15,16 @@ const INITIAL_STATE = {
       id: 2,
       title: "Large Coffee Cup",
       description:
-        "Get a big cup of coffee every morning before the day starts",
+        "No better way to start your day than with Coffee. Drink your Coffee with the best of Cups",
       price: 20.0,
       image:
         "https://images.unsplash.com/photo-1572119865084-43c285814d63?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
     },
     {
       id: 3,
-      title: "Books That CHANGED My Life",
+      title: "Bestseller",
       description:
-        "These books will keep you busy all throughout the entire lockdown and give you some great advise from famous people",
+        "Collection of Top Famous bestsellers. Dan Brown, JK Rowling, Vikram Seth and many more",
       price: 150.0,
       image:
         "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1374&q=80",
